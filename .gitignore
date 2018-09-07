@@ -18,3 +18,5 @@ cv\.log
 cv\.out
 
 cv\.synctex\.gz
+
+*.synctex(busy)
