@@ -32,6 +32,8 @@
 
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text, Path = fonts/raleway/]{Raleway-ExtraLight} % The font used where \sfffamily is called
 
+\usepackage{fontawesome5} % Package for icons, like for Twitter. Full list of icons here; ftp://ftp.dante.de/tex-archive/fonts/fontawesome/doc/fontawesome.pdf
+
 %----------------------------------------------------------------------------------------
 %	LAST UPDATED COMMAND
 %----------------------------------------------------------------------------------------
