@@ -34,9 +34,6 @@
 
 \usepackage{fontawesome5} % Package for icons, like for Twitter. Full list of icons here; ftp://ftp.dante.de/tex-archive/fonts/fontawesome/doc/fontawesome.pdf
 
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc} % Packages for Icelandic characters
-
 %----------------------------------------------------------------------------------------
 %	LAST UPDATED COMMAND
 %----------------------------------------------------------------------------------------
