@@ -1,3 +1,4 @@
+# Weird generated TeXShop files
 
 SWassermann_CV\.log
 
@@ -22,3 +23,6 @@ cv\.synctex\.gz
 *.synctex(busy)
 
 *.log
+
+# Don't want to include a downloadable version of my CV
+*.pdf
