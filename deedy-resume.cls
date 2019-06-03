@@ -28,7 +28,7 @@
 
 \usepackage{fontspec} % Required for specifying custom fonts in XeLaTeX
 
-\setmainfont[Color=primary, Path = fonts/lato/,BoldItalicFont=Lato-RegIta,BoldFont=Lato-Reg,ItalicFont=Lato-LigIta]{Lato-Lig} % The primary font for content text; defines bold, italic and bold-italic as well
+\setmainfont{Roboto} % The primary font for content text; defines bold, italic and bold-italic as well
 
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text, Path = fonts/raleway/]{Raleway-ExtraLight} % The font used where \sfffamily is called
 
@@ -89,7 +89,7 @@ Last Updated on \today % Last Updated text
 \color{subheadings}\raggedright\scshape\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont {#1 \\} \normalfont}
 
 \newcommand{\location}[1]{ % Used for specifying a duration and/or location under a subsection
-\color{headings}\raggedright\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{10pt}{12pt}\selectfont {#1\\} \normalfont}
+\color{headings}\raggedright\fontspec{Roboto}\fontsize{10pt}{12pt}\selectfont {#1\\} \normalfont}
 
 %----------------------------------------------------------------------------------------
 %	SECTION TITLE STYLING AND SPACING
